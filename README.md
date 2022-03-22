@@ -1,4 +1,4 @@
 # junjun_projects
 junjun_projects program
 
--用C语言写swap函数。
+-实现顺序表（各种算法的基本实现）。
