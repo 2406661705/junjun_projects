@@ -1,7 +1,7 @@
 社区论坛
 项目描述：知筏社区论坛，是为方便用户进行观点分享和交流的平台。社区论坛以web端方式为用户提供了发布帖子、发送私信、社区搜索等功能。
 技术架构：Spring Boot、SSM、Redis、Kafka、Elaticsearch。
-项目在运行前，需要用启动：
+项目在运行前，需要启动：
 1.命令行启动kafka-server-start.bat config\server.properties
   如我的kafka安装在此目录下：D:\workspace\kafka_2.13-3.3.1
   执行命令：D:\workspace\kafka_2.13-3.3.1\bin\windows\kafka-server-start.bat config\server.properties
